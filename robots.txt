@@ -1,5 +1,4 @@
 User-agent: *
 Allow: /
 
-# Apna asli domain yahan likhein:
-Sitemap: https://mishrajiambulance.in/sitemap.xml
+Sitemap: https://iitian0.github.io/mishra-ji-ambulance/sitemap.xml
